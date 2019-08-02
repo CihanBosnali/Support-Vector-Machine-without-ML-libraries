@@ -1,2 +1,3 @@
-# Support-Vector-Machine-without-ML-libraries
-SVM is a machine learning technique and I wrote a SVM algorithm using no ML libraries such as Scikit Learn etc. I only used numpy for math and matplotlib for graphs
+# THIS REPOSITORY IS MERGED TO [Machine Learning Without Libraries](https://github.com/CihanBosnali/Machine-Learning-without-Libraries) Repository.
+
+This repo is achieved. Please see the new repo for updates, issues, pull requests. Fork or star the new repo.
